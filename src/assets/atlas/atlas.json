@@ -1,172 +1,7520 @@
-{"frames": {
-
-"misa-back-walk.000":
 {
-	"frame": {"x":97,"y":1,"w":32,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-back-walk.001":
-{
-	"frame": {"x":97,"y":44,"w":32,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-back-walk.002":
-{
-	"frame": {"x":131,"y":1,"w":32,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-back-walk.003":
-{
-	"frame": {"x":97,"y":44,"w":32,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-back":
-{
-	"frame": {"x":97,"y":44,"w":32,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":23,"w":32,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-front-walk.000":
-{
-	"frame": {"x":1,"y":1,"w":30,"h":43},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":21,"w":30,"h":43},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-front-walk.001":
-{
-	"frame": {"x":33,"y":1,"w":30,"h":43},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":21,"w":30,"h":43},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-front-walk.002":
-{
-	"frame": {"x":65,"y":1,"w":30,"h":43},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":21,"w":30,"h":43},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-front-walk.003":
-{
-	"frame": {"x":33,"y":1,"w":30,"h":43},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":21,"w":30,"h":43},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-front":
-{
-	"frame": {"x":33,"y":1,"w":30,"h":43},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":21,"w":30,"h":43},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-left-walk.000":
-{
-	"frame": {"x":1,"y":46,"w":30,"h":39},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":25,"w":30,"h":39},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-left-walk.001":
-{
-	"frame": {"x":131,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-left-walk.002":
-{
-	"frame": {"x":33,"y":46,"w":30,"h":39},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":25,"w":30,"h":39},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-left-walk.003":
-{
-	"frame": {"x":131,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-left":
-{
-	"frame": {"x":131,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-right-walk.000":
-{
-	"frame": {"x":65,"y":46,"w":30,"h":39},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":25,"w":30,"h":39},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-right-walk.001":
-{
-	"frame": {"x":163,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-right-walk.002":
-{
-	"frame": {"x":165,"y":1,"w":30,"h":39},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":25,"w":30,"h":39},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-right-walk.003":
-{
-	"frame": {"x":163,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-},
-"misa-right":
-{
-	"frame": {"x":163,"y":44,"w":30,"h":41},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":23,"w":30,"h":41},
-	"sourceSize": {"w":32,"h":64}
-}},
-"meta": {
-	"app": "http://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "atlas.png",
-	"format": "RGBA8888",
-	"size": {"w":196,"h":86},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:153aa30e8e4e7c6fb0cfe9ff6ead8419:0bf85290c274470ae6499145fc94b88b:cbce6b53f0f49e0bf15173c25c41f876$"
-}
+	"textures": [
+		{
+			"image": "atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 128,
+				"h": 1976
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "nurse_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 35,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 35,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 35,
+						"y": 1,
+						"w": 32,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 32,
+						"h": 44
+					},
+					"frame": {
+						"x": 69,
+						"y": 1,
+						"w": 32,
+						"h": 44
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 24,
+						"h": 39
+					},
+					"frame": {
+						"x": 103,
+						"y": 1,
+						"w": 24,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 24,
+						"h": 39
+					},
+					"frame": {
+						"x": 103,
+						"y": 42,
+						"w": 24,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 69,
+						"y": 47,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 103,
+						"y": 83,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 103,
+						"y": 83,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 103,
+						"y": 83,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 35,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 48,
+						"w": 35,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 48,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 48,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 48,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 92,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 102,
+						"y": 126,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 102,
+						"y": 126,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 23,
+						"w": 22,
+						"h": 41
+					},
+					"frame": {
+						"x": 102,
+						"y": 126,
+						"w": 22,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 35,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 90,
+						"w": 35,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 95,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 95,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 19,
+						"w": 28,
+						"h": 45
+					},
+					"frame": {
+						"x": 38,
+						"y": 95,
+						"w": 28,
+						"h": 45
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 137,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 22,
+						"h": 39
+					},
+					"frame": {
+						"x": 102,
+						"y": 169,
+						"w": 22,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 132,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 35,
+						"y": 142,
+						"w": 31,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 182,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 182,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 182,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 25,
+						"w": 22,
+						"h": 39
+					},
+					"frame": {
+						"x": 102,
+						"y": 210,
+						"w": 22,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 177,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 177,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 177,
+						"w": 32,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 35,
+						"y": 187,
+						"w": 31,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 227,
+						"w": 31,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 101,
+						"y": 251,
+						"w": 26,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 101,
+						"y": 251,
+						"w": 26,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 101,
+						"y": 251,
+						"w": 26,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 222,
+						"w": 31,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 34,
+						"y": 232,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 34,
+						"y": 232,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 34,
+						"y": 232,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 272,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 272,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 272,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 292,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 292,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 292,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 267,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 275,
+						"w": 33,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 312,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 317,
+						"w": 33,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 357,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 357,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 357,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 317,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 332,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 332,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 332,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 100,
+						"y": 332,
+						"w": 26,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 359,
+						"w": 33,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 362,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 27,
+						"w": 26,
+						"h": 36
+					},
+					"frame": {
+						"x": 100,
+						"y": 372,
+						"w": 26,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 33,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 401,
+						"w": 33,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 407,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 407,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 68,
+						"y": 407,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 26,
+						"h": 35
+					},
+					"frame": {
+						"x": 100,
+						"y": 410,
+						"w": 26,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 26,
+						"h": 35
+					},
+					"frame": {
+						"x": 100,
+						"y": 447,
+						"w": 26,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 402,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 443,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 447,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 452,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 452,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 452,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 41
+					},
+					"frame": {
+						"x": 99,
+						"y": 484,
+						"w": 28,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 486,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 497,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 497,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 67,
+						"y": 497,
+						"w": 30,
+						"h": 43
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 41
+					},
+					"frame": {
+						"x": 99,
+						"y": 527,
+						"w": 28,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 492,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 492,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 492,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 529,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 529,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 529,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 67,
+						"y": 542,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 67,
+						"y": 542,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 41
+					},
+					"frame": {
+						"x": 67,
+						"y": 542,
+						"w": 30,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 41
+					},
+					"frame": {
+						"x": 99,
+						"y": 570,
+						"w": 28,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 535,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 572,
+						"w": 32,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 585,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "teamxerogrunt1_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 41
+					},
+					"frame": {
+						"x": 99,
+						"y": 613,
+						"w": 28,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 577,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 577,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 615,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 627,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 656,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 656,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 656,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 619,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 657,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 669,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 698,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 661,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 661,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 699,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 711,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 711,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 711,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 740,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 740,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 703,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 703,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 703,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 741,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 753,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 782,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 782,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 782,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 745,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_front_walk.000",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 783,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 795,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 795,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 824,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 824,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 824,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 787,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 825,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 837,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 99,
+						"y": 866,
+						"w": 28,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 829,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 867,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 879,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 879,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 879,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 908,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 871,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 871,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 871,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 909,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 921,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 921,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 67,
+						"y": 921,
+						"w": 30,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 949,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 913,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 33,
+						"y": 951,
+						"w": 32,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 67,
+						"y": 963,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 990,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 954,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 993,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 993,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 33,
+						"y": 993,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 995,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 66,
+						"y": 1004,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "femaletrainer_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1031,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 1036,
+						"w": 31,
+						"h": 41
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1036,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1047,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1072,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1077,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1089,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1113,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1079,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1118,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 21,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1131,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1154,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1154,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1154,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1121,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1121,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "misa_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1159,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1173,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1195,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1163,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1200,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1215,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 28,
+						"h": 39
+					},
+					"frame": {
+						"x": 99,
+						"y": 1236,
+						"w": 28,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1205,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 39
+					},
+					"frame": {
+						"x": 34,
+						"y": 1241,
+						"w": 30,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 66,
+						"y": 1257,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 99,
+						"y": 1277,
+						"w": 28,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 99,
+						"y": 1277,
+						"w": 28,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1247,
+						"w": 31,
+						"h": 40
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1282,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 31,
+						"h": 39
+					},
+					"frame": {
+						"x": 66,
+						"y": 1299,
+						"w": 31,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 31,
+						"h": 39
+					},
+					"frame": {
+						"x": 66,
+						"y": 1299,
+						"w": 31,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 31,
+						"h": 39
+					},
+					"frame": {
+						"x": 66,
+						"y": 1299,
+						"w": 31,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 99,
+						"y": 1317,
+						"w": 28,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 23,
+						"w": 28,
+						"h": 38
+					},
+					"frame": {
+						"x": 99,
+						"y": 1317,
+						"w": 28,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 31,
+						"h": 39
+					},
+					"frame": {
+						"x": 1,
+						"y": 1289,
+						"w": 31,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1322,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "tuxemartemployee_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 31,
+						"h": 39
+					},
+					"frame": {
+						"x": 66,
+						"y": 1340,
+						"w": 31,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 28,
+						"h": 37
+					},
+					"frame": {
+						"x": 99,
+						"y": 1357,
+						"w": 28,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 31,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1330,
+						"w": 31,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1362,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1362,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "girl1_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 23,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1362,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 31,
+						"h": 38
+					},
+					"frame": {
+						"x": 66,
+						"y": 1381,
+						"w": 31,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 28,
+						"h": 37
+					},
+					"frame": {
+						"x": 99,
+						"y": 1396,
+						"w": 28,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1370,
+						"w": 31,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1370,
+						"w": 31,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 27,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1370,
+						"w": 31,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 34,
+						"y": 1402,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 66,
+						"y": 1421,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 66,
+						"y": 1421,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 28,
+						"h": 36
+					},
+					"frame": {
+						"x": 98,
+						"y": 1435,
+						"w": 28,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1409,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1409,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1409,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 33,
+						"y": 1442,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 33,
+						"y": 1442,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 33,
+						"y": 1442,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1449,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 65,
+						"y": 1461,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 33,
+						"y": 1482,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "red_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 25,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 1,
+						"y": 1489,
+						"w": 30,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 97,
+						"y": 1473,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelceo_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 65,
+						"y": 1501,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 33,
+						"y": 1522,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 33,
+						"y": 1522,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 33,
+						"y": 1522,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1529,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 97,
+						"y": 1512,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 97,
+						"y": 1512,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 97,
+						"y": 1512,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "omnichannelfemale_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 37
+					},
+					"frame": {
+						"x": 65,
+						"y": 1540,
+						"w": 30,
+						"h": 37
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 33,
+						"y": 1561,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 33,
+						"y": 1561,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 33,
+						"y": 1561,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1568,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1568,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1568,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 97,
+						"y": 1551,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 97,
+						"y": 1551,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 97,
+						"y": 1551,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 65,
+						"y": 1579,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 65,
+						"y": 1579,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 36
+					},
+					"frame": {
+						"x": 65,
+						"y": 1579,
+						"w": 30,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 35
+					},
+					"frame": {
+						"x": 33,
+						"y": 1599,
+						"w": 30,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 35
+					},
+					"frame": {
+						"x": 33,
+						"y": 1599,
+						"w": 30,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 35
+					},
+					"frame": {
+						"x": 33,
+						"y": 1599,
+						"w": 30,
+						"h": 35
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1606,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 1589,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 65,
+						"y": 1617,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 33,
+						"y": 1636,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1642,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 1625,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 65,
+						"y": 1653,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 30,
+						"h": 34
+					},
+					"frame": {
+						"x": 33,
+						"y": 1672,
+						"w": 30,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "knight_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 28,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1678,
+						"w": 28,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 97,
+						"y": 1661,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "bob_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 31,
+						"w": 30,
+						"h": 33
+					},
+					"frame": {
+						"x": 65,
+						"y": 1689,
+						"w": 30,
+						"h": 33
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 32,
+						"h": 39
+					},
+					"frame": {
+						"x": 31,
+						"y": 1708,
+						"w": 32,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 32,
+						"h": 39
+					},
+					"frame": {
+						"x": 31,
+						"y": 1708,
+						"w": 32,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 32,
+						"h": 39
+					},
+					"frame": {
+						"x": 31,
+						"y": 1708,
+						"w": 32,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cat_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1716,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1716,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1716,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1748,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 97,
+						"y": 1696,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 65,
+						"y": 1724,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "boss_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 38
+					},
+					"frame": {
+						"x": 25,
+						"y": 1749,
+						"w": 33,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cat_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 22,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1780,
+						"w": 22,
+						"h": 30
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "boss_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 38
+					},
+					"frame": {
+						"x": 89,
+						"y": 1728,
+						"w": 33,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cat_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 60,
+						"y": 1756,
+						"w": 22,
+						"h": 28
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 60,
+						"y": 1756,
+						"w": 22,
+						"h": 28
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 60,
+						"y": 1756,
+						"w": 22,
+						"h": 28
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "professor_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 38
+					},
+					"frame": {
+						"x": 84,
+						"y": 1768,
+						"w": 33,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 38
+					},
+					"frame": {
+						"x": 25,
+						"y": 1789,
+						"w": 33,
+						"h": 38
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_back_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 32,
+						"h": 39
+					},
+					"frame": {
+						"x": 60,
+						"y": 1808,
+						"w": 32,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "nurse_back_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 32,
+						"h": 39
+					},
+					"frame": {
+						"x": 94,
+						"y": 1808,
+						"w": 32,
+						"h": 39
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "boss_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1829,
+						"w": 33,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "professor_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 36,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 33,
+						"h": 36
+					},
+					"frame": {
+						"x": 36,
+						"y": 1849,
+						"w": 33,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1867,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_back_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1867,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_back_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 1867,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 71,
+						"y": 1849,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_front_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 34,
+						"y": 1887,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_front_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 36
+					},
+					"frame": {
+						"x": 34,
+						"y": 1887,
+						"w": 31,
+						"h": 36
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_front_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 27,
+						"w": 31,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1905,
+						"w": 31,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "ninja_front_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 29,
+						"w": 31,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1941,
+						"w": 31,
+						"h": 34
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "cat_left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1925,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_left_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1925,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_left_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1925,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1947,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_right_walk.000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1947,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_right_walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 31,
+						"h": 20
+					},
+					"frame": {
+						"x": 34,
+						"y": 1947,
+						"w": 31,
+						"h": 20
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_left_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 1887,
+						"w": 31,
+						"h": 18
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_left_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 1907,
+						"w": 31,
+						"h": 18
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_right_walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 17,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 1927,
+						"w": 31,
+						"h": 18
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				},
+				{
+					"filename": "cat_right_walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 17,
+						"w": 31,
+						"h": 18
+					},
+					"frame": {
+						"x": 67,
+						"y": 1947,
+						"w": 31,
+						"h": 18
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.6
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:807396fe71be0e4076ab92ea316be087:f5564fa27d6647abdd009bdf3643259d:cbce6b53f0f49e0bf15173c25c41f876$"
+	}
 }
