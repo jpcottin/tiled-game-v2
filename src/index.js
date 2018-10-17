@@ -1,4 +1,4 @@
-import greet from './greet';
+import Character from './character';
 import './style.css';
 import 'phaser';
 import tiles from './assets/tilesets/tuxmon-sample-32px-extruded.png';
@@ -32,40 +32,13 @@ var config = {
   }
 };
 
-function createAtlasAnims(anims, name) {
-  anims.create({
-    key: name + '_left_walk',
-    frames: anims.generateFrameNames('atlas', { prefix: name + '_left_walk.', start: 0, end: 3, zeroPad: 3 }),
-    frameRate: 10,
-    repeat: -1
-  });
-  anims.create({
-    key: name + '_right_walk',
-    frames: anims.generateFrameNames('atlas', { prefix: name + '_right_walk.', start: 0, end: 3, zeroPad: 3 }),
-    frameRate: 10,
-    repeat: -1
-  });
-  anims.create({
-    key: name + '_front_walk',
-    frames: anims.generateFrameNames('atlas', { prefix: name + '_front_walk.', start: 0, end: 3, zeroPad: 3 }),
-    frameRate: 10,
-    repeat: -1
-  });
-  anims.create({
-    key: name + '_back_walk',
-    frames: anims.generateFrameNames('atlas', { prefix: name + '_back_walk.', start: 0, end: 3, zeroPad: 3 }),
-    frameRate: 10,
-    repeat: -1
-  });
-}
-
-
 const game = new Phaser.Game(config);
 let cursors;
 let player;
 let cat;
 let showDebug = false;
-let character = 'teamxerogrunt1';
+let characterName = 'teamxerogrunt1';
+let character;
 
 function preload () {
   this.load.image('tiles', tiles);
@@ -90,24 +63,15 @@ function create () {
 
   const spawnPoint = map.findObject('Objects', obj => obj.name === 'Spawn Point');
 
-  player = this.physics.add
-    .sprite(spawnPoint.x, spawnPoint.y, 'atlas', character + '_front')
-    .setSize(30, 40)
-    .setOffset(0, 24);
+  player = new Character(this, spawnPoint, characterName);
+  cat = new Character(this, {x: 300, y: 300}, 'cat');
 
-  cat = this.physics.add
-      .sprite(300, 300, 'atlas', 'cat_front')
-      .setSize(30, 30)
-      .setOffset(0, 8);
-
-  this.physics.add.collider(player, worldLayer);
-  this.physics.add.collider(player, cat);
-
-  createAtlasAnims(this.anims, character);
-  createAtlasAnims(this.anims, 'cat');
+  this.physics.add.collider(player.phaserObject, worldLayer);
+  this.physics.add.collider(cat.phaserObject, worldLayer);
+  this.physics.add.collider(player.phaserObject, cat.phaserObject, function() { console.log('miaou'); }, null, this);
 
   const camera = this.cameras.main;
-  camera.startFollow(player);
+  camera.startFollow(player.phaserObject);
   camera.setBounds(0, 0, map.widthInPixels, map.heightInPixels);
 
   cursors = this.input.keyboard.createCursorKeys();
@@ -139,47 +103,40 @@ function create () {
   });
 }
 
-function update(time, delta) {
-  const speed = 175;
-  const prevVelocity = player.body.velocity.clone();
+let dirMap = [
+  Character.DIR_UP,
+  Character.DIR_DOWN,
+  Character.DIR_LEFT,
+  Character.DIR_RIGHT,
+  Character.DIR_UP | Character.DIR_LEFT,
+  Character.DIR_UP | Character.DIR_RIGHT,
+  Character.DIR_DOWN | Character.DIR_LEFT,
+  Character.DIR_DOWN | Character.DIR_RIGHT
+];
+let catCounter = 0;
+let catDir = 0;
 
-  // Stop any previous movement from the last frame
-  player.body.setVelocity(0);
-  cat.body.setVelocity(0);
+function update(time, delta) {
+  let dir = 0;
 
   // Horizontal movement
   if (cursors.left.isDown) {
-    player.body.setVelocityX(-speed);
+    dir |= Character.DIR_LEFT;
   } else if (cursors.right.isDown) {
-    player.body.setVelocityX(speed);
+    dir |= Character.DIR_RIGHT;
   }
 
   // Vertical movement
   if (cursors.up.isDown) {
-    player.body.setVelocityY(-speed);
+    dir |= Character.DIR_UP;
   } else if (cursors.down.isDown) {
-    player.body.setVelocityY(speed);
+    dir |= Character.DIR_DOWN;
   }
 
-  // Normalize and scale the velocity so that player can't move faster along a diagonal
-  player.body.velocity.normalize().scale(speed);
+  player.update(dir);
 
-  // Update the animation last and give left/right animations precedence over up/down animations
-  if (cursors.left.isDown) {
-    player.anims.play(character + '_left_walk', true);
-  } else if (cursors.right.isDown) {
-    player.anims.play(character + '_right_walk', true);
-  } else if (cursors.up.isDown) {
-    player.anims.play(character + '_back_walk', true);
-  } else if (cursors.down.isDown) {
-    player.anims.play(character + '_front_walk', true);
-  } else {
-    player.anims.stop();
-
-    // If we were moving, pick and idle frame to use
-    if (prevVelocity.x < 0) player.setTexture('atlas', character + '_left');
-    else if (prevVelocity.x > 0) player.setTexture('atlas', character + '_right');
-    else if (prevVelocity.y < 0) player.setTexture('atlas', character + '_back');
-    else if (prevVelocity.y > 0) player.setTexture('atlas', character + '_front');
+  if (catCounter++ % 20 === 0) {
+    catDir = dirMap[Math.floor(Math.random()*8)];
   }
+  cat.update(catDir);
 }
